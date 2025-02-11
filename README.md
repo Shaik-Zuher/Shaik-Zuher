@@ -62,5 +62,13 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Zuher&area=false&hide_title=false&hide_border=false&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>  
+</div>
+###
 
 
