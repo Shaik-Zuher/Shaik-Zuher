@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<h1 align="center">Hey World 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 ###
 
