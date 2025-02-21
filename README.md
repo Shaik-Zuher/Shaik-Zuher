@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shaik-Zuher&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Zuher&area=false&hide_title=false&hide_border=false&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shaik-Zuher&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt=""  />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-Zuher&layout=compact&langs_count=8&card_width=320" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Zuher&area=false&hide_title=false&hide_border=false&theme=github-dark" height="200" alt="activity-graph graph"  />
 </div>
 <div>
 <picture>
