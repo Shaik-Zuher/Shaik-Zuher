@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm passionate FrontEnd and Software Developer from India<br><br>- 🔭 I’m a Recent Engineering Graduate.<br>- 📚 I'm currently learning DSA<br>- 🌱 I'm planning to learn Flask and System Design<br>- ⚡ In my free time I like to code and play games ...<br>- 🌄 Next Time- A New Beginning</p>
+<p align="left">I'm passionate FrontEnd and Software Developer from India<br><br>- 🔭 I’m a Recent Engineering Graduate.<br>- 📚 I'm currently learning DSA<br>- 🌱 I'm planning to learn Flask and System Design<br>- ⚡ In my free time I like to code and play games ...<br>- 🌄 Looking For - A New Beginning</p>
 
 ###
 
